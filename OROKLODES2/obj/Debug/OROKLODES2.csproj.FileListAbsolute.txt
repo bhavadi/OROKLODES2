@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES2\OROKLODES2\bin\Debug\OROKLODES2.exe.config
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES2\OROKLODES2\bin\Debug\OROKLODES2.exe
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES2\OROKLODES2\bin\Debug\OROKLODES2.pdb
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES2\OROKLODES2\obj\Debug\OROKLODES2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES2\OROKLODES2\obj\Debug\OROKLODES2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES2\OROKLODES2\obj\Debug\OROKLODES2.exe
+C:\Users\User\Desktop\OSSZ\INFO\OROKLODES2\OROKLODES2\obj\Debug\OROKLODES2.pdb
